@@ -1,0 +1,59 @@
+# compiled output
+/section*/dist
+/section*/node_modules
+/section*/build
+/section*/package-lock.json
+
+# Logs
+/section*/logs
+/section*/*.log
+/section*/npm-debug.log*
+/section*/pnpm-debug.log*
+/section*/yarn-debug.log*
+/section*/yarn-error.log*
+/section*/lerna-debug.log*
+
+# OS
+/.DS_Store
+/section*/.DS_Store
+
+# Tests
+/section*/coverage
+/section*/.nyc_output
+
+# IDEs and editors
+/section*/.idea
+/section*/.project
+/section*/.classpath
+/section*/.c9/
+/section*/*.launch
+/section*/.settings/
+/section*/*.sublime-workspace
+
+# IDE - VSCode
+/section*/.vscode/*
+!/section*/.vscode/settings.json
+!/section*/.vscode/tasks.json
+!/section*/.vscode/launch.json
+!/section*/.vscode/extensions.json
+
+# dotenv environment variable files
+/section*/.env
+/section*/.env.development.local
+/section*/.env.test.local
+/section*/.env.production.local
+/section*/.env.local
+
+# temp directory
+/section*/.temp
+/section*/.tmp
+
+# Runtime data
+/section*/pids
+/section*/*.pid
+/section*/*.seed
+/section*/*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+/section*/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+/section*/.vercel
